@@ -1,0 +1,1 @@
+Logistic regression is a statistical method used for binary classification tasks, where the target variable has two possible outcomes, often represented as 0 and 1,in this scenario we are checking factors influencing possibility of having a heart disease based omn predictor variables.
